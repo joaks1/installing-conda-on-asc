@@ -1,5 +1,5 @@
-Please follow these intructions to install Anaconda3 on your
-ASC student account.
+Please follow these instructions to install Anaconda3 on your ASC student
+account.
 
 1.  Download the Anaconda installation Bash script:
 
@@ -13,13 +13,13 @@ ASC student account.
     bash Anaconda3-2019.03-Linux-x86_64.sh
     ```
 
-    -   When asked to review the license agreement, press ENTER
+    -   When asked to review the license agreement, press the ENTER key
 
     -   Use the ENTER key to scroll to the bottom of the agreement
 
     -   When asked to accept the license type "yes" and hit ENTER
 
-    -   When you should see a message that looks like:
+    -   When you see a message that looks like:
 
         ```
         Anaconda3 will now be installed into this location:
@@ -34,7 +34,7 @@ ASC student account.
 
         The installation will take some time, so be patient.
 
-    -   After a few minutes, you should be prompted to
+    -   After several minutes, you should be prompted to
         initialize Anaconda3:
 
         ```
@@ -44,7 +44,7 @@ ASC student account.
 
         Type "yes" and hit ENTER
         
-    -   When the installation succesfully finishes, you should see a messsage
+    -   When the installation successfully finishes, you should see a message
         like:
 
         ```
@@ -67,5 +67,5 @@ ASC student account.
     rm Anaconda3-2019.03-Linux-x86_64.sh
     ```
 
-Your done. By default, you will not be using the Python executable and all the
+Your done. By default, you will now be using the Python executable and all the
 Python packages that were installed with Anaconda.
