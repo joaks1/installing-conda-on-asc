@@ -67,5 +67,5 @@ account.
     rm Anaconda3-2019.03-Linux-x86_64.sh
     ```
 
-Your done. By default, you will now be using the Python executable and all the
+You're done. By default, you will now be using the Python executable and all the
 Python packages that were installed with Anaconda.
